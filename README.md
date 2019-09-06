@@ -15,4 +15,4 @@ La plage d'adresses renseignée sera celle utilisée par le Poller Centreon.
 #Centreon#
 J'ai installé le logiciel plutôt que d'utiliser les images au format .ovf parceque j'ai cru lire que le module centreon-clapi était désormais inclus dans centreon-web et aussi je souhaitais pouvoir me passer du module centreon-glpi pour la communication puisque il est incompatible avec les nouvelles versions de Glpi et Clapi.  
 Je rencontre quelques problemes avec l'installation de Centreon et de ses modules historiques récemment supprimés   
-![](WSGLPI.png)
+![](Centreon2.png)
