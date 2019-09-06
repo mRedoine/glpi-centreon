@@ -25,4 +25,4 @@ Ajout d'un poller vers le server GLPI
 ![](clapi4.png)
 
 Reste à faire Installer les modules manquants et surtout apprendre comment Superviser les instances Glpi de Centreon
-Ce n'est donc pas encore exploitable et un échéc.
+Ce n'est donc pas encore exploitable...
