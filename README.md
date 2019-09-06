@@ -23,3 +23,6 @@ Installation du module centreon-clapi OK
 
 Ajout d'un poller vers le server GLPI  
 ![](Clapi2.png)
+
+Reste à faire Installer les modules manquants et surtout apprendre comment Superviser les instances Glpi de Centreon
+Ce n'est donc pas encore exploitable et un échéc.
